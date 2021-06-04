@@ -1,0 +1,6 @@
+---
+- name : welcome
+  hosts : all
+  
+  vars :
+    greeting : "hello"
